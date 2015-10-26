@@ -160,6 +160,9 @@ Mobile security testing live environment
 
 * [Introduction to ARM](http://opensecuritytraining.info/IntroARM.html)
 
+* [Advanced Android Security and Exploitation](https://www.youtube.com/channel/UCkVrCcQAzQZR7j28avt1jjw/playlists) - Android exploitation series by Attify CEO Aditya Gupta.
+
+
 
 ##Android Vulnerability List
 
@@ -198,6 +201,10 @@ Mobile security testing live environment
 * [Secure Preferences](https://github.com/scottyab/secure-preferences) - Android Shared preference wrapper than encrypts the keys and values of Shared Preferences.
 
 * [Trusted Intents](https://github.com/guardianproject/TrustedIntents) - Library for flexible trusted interactions between Android apps
+
+## Android Exploitation Tools
+ 
+* [AndroRAT] (https://github.com/DesignativeDave/androrat) - Remote access trojan tool for creating malicious spying .apk file.
 
 ##Best Practices
 
